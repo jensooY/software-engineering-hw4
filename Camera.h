@@ -12,7 +12,7 @@
 namespace Glb {
     /**
      * 相机类
-     * 管理相机的视角、位置和投影参数
+     * 管理相机的视角、位 
      */
     class Camera {
     public:

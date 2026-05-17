@@ -1,6 +1,6 @@
 /**
- * Configure.h: 系统配置文件
- * 定义系统的各种配置参数和全局变量
+ * Configure.h: 
+ * 定义系统的各 
  */
 
 #pragma once

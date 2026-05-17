@@ -10,7 +10,7 @@ namespace Glb {
 	class Component {
 	public:
 		int id;                  // 组件ID
-		char* description;       // 组件描述
+		char* description;       //  
 
 		Component() {
 			id = -1;
