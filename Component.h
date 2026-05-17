@@ -4,7 +4,7 @@
 
 #include <glfw3.h>
 
-// 基类，用于组织流体/粒子系统和渲染组件
+// 基类，用于组织流体/粒子系 
 
 namespace Glb {
 	class Component {

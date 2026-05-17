@@ -11,7 +11,7 @@
 namespace Glb {
 	class Container {
 	public:
-		void resetSize(float x, float y, float z);  // 重置容器大小
+		void resetSize(float x, float y, float z);  // 重 
 		void draw();                                // 绘制容器
 		void init();                                // 初始化容器
 
